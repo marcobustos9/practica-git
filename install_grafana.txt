@@ -1,3 +1,4 @@
+Install Grafana instructions
 1. Copy paste the following in a YAML file, name it grafana.yaml
 datasources:
   datasources.yaml:
